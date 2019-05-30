@@ -1,5 +1,4 @@
-# Cosmology 
-## SPCS Summer Institute 2019
+## Cosmology (SPCS Summer Institutes 2019)
 
 ### Lectures
 
